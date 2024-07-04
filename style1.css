@@ -1,14 +1,3 @@
-/*
-
-Theme Name: Invitation
-
-Author: Alexei
-
-Description: Convert HTML to WordPress theme.
-
-Version: 1.0
-
-*/
 
 
 @charset "utf-8";
@@ -63,7 +52,7 @@ p {text-align: center;}
 
 
 #date {
-  background-image: url("c2.jpg");
+  background-image: url("c2big.jpg");
   min-height: 500px;
   background-position: center;
   background-repeat: no-repeat;
@@ -74,7 +63,7 @@ p {text-align: center;}
 }
 
 #multu {
-  background-image: url("c3.jpg");
+  background-image: url("c3big.jpg");
   min-height: 600px;
   background-position: center;
   background-repeat: no-repeat;
@@ -137,7 +126,7 @@ li { padding: 10px;
         }
 
 .text {background: var(--secondary-color);
-       padding: 70px;
+       padding: 40px;
        color: #fff;
        flex-basis: 440px;
        overflow: scroll;}
@@ -193,6 +182,8 @@ input[type=text], textarea {
   -webkit-transition: 0.5s;
   transition: 0.5s;
   outline: none;
+  font-family: var(--primary-font);
+  font-size: 2vw;
 }
 
 input[type=text]:focus {
@@ -215,6 +206,8 @@ textarea:focus {
   border-radius: 15px;
   opacity: 0.7;
   display: block;
+  font-family: var(--primary-font);
+  font-size: 2vw;
 }
 
 .button:hover {opacity:1;}
@@ -269,6 +262,7 @@ img { width: 100%;
       object-position: bottom;
 }
 
+
 #container {container-type: inline-size;
             width: 800px;
             margin: 0 auto;
@@ -312,14 +306,16 @@ img { width: 100%;
 
   #info {width: 80%;
          flex-wrap: wrap;}
-  #invitatie {font-size: 16px;}
+  #invitatie {font-size: 21px;}
 
   #bg-img { background-attachment: scroll;
    }
   #date {
-  background-image: url("c2.jpg"); }
+  background-image: url("c2big.jpg"); 
+  background-attachment: scroll;}
 
-  #multu {  background-image: url("c3.jpg");
+  #multu {  background-image: url("c3big.jpg");
+           background-attachment: scroll;
    }
 
 @container (max-width: 767px)
