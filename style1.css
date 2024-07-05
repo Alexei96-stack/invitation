@@ -270,7 +270,7 @@ img { width: 100%;
   .text {font-size: 21px;}
   p.p1 {font-size: 23px;}
  
-  .headform {font-size: 23p;}
+  .headform h2, p {font-size: 23p;}
   #bg-img {background-image: url("rgsmall.jpg");
          background-attachment: scroll;
    }
