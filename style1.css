@@ -173,7 +173,7 @@ p {text-align: center;
 
 .headform {text-align: center;
         font-family: var(--primary-font);
-       font-size: 3vw;
+       font-size: 4vw;
 
        } 
 
@@ -270,7 +270,6 @@ img { width: 100%;
   .text {font-size: 21px;}
   p.p1 {font-size: 23px;}
  
-  .headform h2, p {font-size: 23p;}
   #bg-img {background-image: url("rgsmall.jpg");
          background-attachment: scroll;
    }
