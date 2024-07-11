@@ -229,6 +229,48 @@ img { width: 100%;
             margin: 0 auto;
            }
 
+/* CSS */
+.button-55 {  font-family: "Caveat", cursive;
+  align-self: center;
+  background-color: #fff;
+  background-image: none;
+  background-position: 0 90%;
+  background-repeat: repeat no-repeat;
+  background-size: 4px 3px;
+  border-radius: 15px 225px 255px 15px 15px 255px 225px 15px;
+  border-style: solid;
+  border-width: 2px;
+  box-shadow: rgba(0, 0, 0, .2) 15px 28px 25px -18px;
+  box-sizing: border-box;
+  color: #41403e;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 3vw;
+  line-height: 23px;
+  outline: none;
+  padding: .75rem;
+  text-decoration: none;
+  transition: all 235ms ease-in-out;
+  border-bottom-left-radius: 15px 255px;
+  border-bottom-right-radius: 225px 15px;
+  border-top-left-radius: 255px 15px;
+  border-top-right-radius: 15px 225px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-55:hover {
+  box-shadow: rgba(0, 0, 0, .3) 2px 8px 8px -5px;
+  transform: translate3d(0, 2px, 0);
+}
+
+.button-55:focus {
+  box-shadow: rgba(0, 0, 0, .3) 2px 8px 4px -6px;
+}
+
+
+
 @media screen and (min-width: 1024px)
 { #wrapper { width: 1000px;}
   #header { width: 1000px;}
@@ -269,7 +311,7 @@ img { width: 100%;
          flex-wrap: wrap;}
   .text {font-size: 21px;}
   p.p1 {font-size: 23px;}
- 
+
   #bg-img {background-image: url("rgsmall.jpg");
          background-attachment: scroll;
    }
@@ -278,7 +320,7 @@ img { width: 100%;
   background-attachment: scroll;}
 
   #multu { 
-           background-attachment: scroll;
+           background-attachment: scroll;}
    }
 
 @container (max-width: 767px)
