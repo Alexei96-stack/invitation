@@ -328,11 +328,11 @@ img { width: 100%;
   #bg-img {background-image: url("rgsmall.jpg");
          background-attachment: scroll;
    }
-  #date {
+  #date { background-image: url("c2s.png");
  
   background-attachment: scroll;}
 
-  #multu { 
+  #multu { background-image: url("c3s.png");
            background-attachment: scroll;}
    }
 
