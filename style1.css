@@ -234,7 +234,7 @@ img { width: 100%;
 /* CSS */
 .button-55 {  font-family: "Caveat", cursive;
   align-self: center;
-  background-color: #DCDCDC;
+  background-color: #F0F4F1;
   background-image: none;
   background-position: 0 90%;
   background-repeat: repeat no-repeat;
@@ -248,7 +248,7 @@ img { width: 100%;
  font-size: 23px;
   cursor: pointer;
   display: inline-block;
-  line-height: 23px;
+  line-height: 27px;
   outline: none;
   padding: .75rem;
   text-decoration: none;
@@ -319,7 +319,7 @@ img { width: 100%;
   #cand, #unde {font-size: 24px;}
  
   .headform {font-size: 24px;}
- .headform h2 {font-size:26px;}
+ .headform h2 {font-size:28px;}
  
   #bg-img {background-image: url("rgsmall.jpg");
          background-attachment: scroll;
