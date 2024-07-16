@@ -286,7 +286,7 @@ img { width: 100%;
           display: block;
            text-align: center;}
   #nav ul {justify-content: center;}
-  #headform p {font-size: 24px;}
+  .headform p {font-size: 28px;}
  
   #info {width: 700px;}
 
@@ -316,8 +316,9 @@ img { width: 100%;
   p.p1 {font-size: 26px;}
 
   #cand, #unde {font-size: 24px;}
+ 
   .headform {font-size: 24px;}
- .headform h2 {font-size:25px;}
+ .headform h2 {font-size:26px;}
  
   #bg-img {background-image: url("rgsmall.jpg");
          background-attachment: scroll;
