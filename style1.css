@@ -74,7 +74,7 @@ p {text-align: center;}
   
 }
 
-h2 {color: white;
+h2 {color: #fff;
     }
 
 a:link,
@@ -244,7 +244,7 @@ img { width: 100%;
   border-width: 2px;
   box-shadow: rgba(0, 0, 0, .2) 15px 28px 25px -18px;
   box-sizing: border-box;
-  color: white;
+  color: #fff;
  font-size: 23px;
   cursor: pointer;
   display: inline-block;
