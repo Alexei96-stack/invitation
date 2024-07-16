@@ -318,6 +318,7 @@ img { width: 100%;
 
   #cand, #unde {font-size: 24px;}
   .headform {font-size: 24px;}
+ .headform h2 {font-size:25px;}
  
   #bg-img {background-image: url("rgsmall.jpg");
          background-attachment: scroll;
