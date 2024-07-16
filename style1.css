@@ -234,7 +234,7 @@ img { width: 100%;
 /* CSS */
 .button-55 {  font-family: "Caveat", cursive;
   align-self: center;
-  background-color: #FFF8E7;
+  background-color: #DCDCDC;
   background-image: none;
   background-position: 0 90%;
   background-repeat: repeat no-repeat;
@@ -245,6 +245,7 @@ img { width: 100%;
   box-shadow: rgba(0, 0, 0, .2) 15px 28px 25px -18px;
   box-sizing: border-box;
   color: #41403e;
+ font-size: 23px;
   cursor: pointer;
   display: inline-block;
   line-height: 23px;
